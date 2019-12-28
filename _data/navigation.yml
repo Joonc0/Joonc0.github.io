@@ -1,5 +1,5 @@
 # main links
-#main:
+main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
@@ -10,16 +10,3 @@
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-
-  docs:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /_docs/quick-start-guide/
-
-   - title: Customization
-      children:
-        - title: "Configuration"
-          url: /docs/configuration/
-
-        
