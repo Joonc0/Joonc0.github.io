@@ -1,6 +1,6 @@
 ---
-title:  "New Post -- Beta Release"
-last_modified_at: 2019-03-20T16:01:04-04:00
+title:  "MarkDown Practice"
+last_modified_at: 2019-12-20T16:01:04-04:00
 categories: 
   - Jekyll
 tags:
@@ -9,4 +9,49 @@ toc: true
 toc_label: "Getting Started"
 ---
 
-Hot on the heels of Jekyll v3.3.0 is a beta release of Minimal Mistakes... as a gemified theme.
+
+
+# Test 1
+## Test 2
+### Test 3
+
+it is **bold** , *italic*, ***both***
+it is ~~cancelled~~
+
+> 인용문
+> >인용문 안에 인용문
+
+### List
+
+* List
+  * 1
+  * 2
+* how to make github
+  1.  i don't know 
+  2. sdkmaskd
+
+### Check Box
+ * [ ] List item
+ * [ ] List 
+ * [ ] List item
+
+
+### CodeBlock
+
+``` c++
+ int = 5;
+```
+### 인용문
+> Blockquote
+> 
+
+
+### Link
+[naver](www.naver.com)
+
+
+
+
+
+
+
