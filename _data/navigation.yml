@@ -10,6 +10,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 # sidebar navigation list sample
-sidebar-sample:
+# sidebar-sample:
   - title: "Sitemap"
     url : /sitemap/
