@@ -291,7 +291,7 @@ defaults:
     values:    
       classes: wide
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: true
       comments:  true # 댓글
       toc : true
