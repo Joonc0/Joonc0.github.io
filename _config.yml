@@ -294,7 +294,7 @@ defaults:
       author_profile: true
       read_time: true
       comments:  true # 댓글
-      toc : true
+      toc : false
       share: false
       related: false
 
