@@ -2,7 +2,7 @@
 title:  "[C++] to_string"
 last_modified_at: 2020-01-12T17:01:17-04:00
 categories: 
-  - categories
+  - C++
 tags:
   - C++
   - string
